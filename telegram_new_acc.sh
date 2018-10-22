@@ -29,7 +29,7 @@ Name[en_US]=tg_$next.desktop"
 #ls -la ~/Desktop/
 #sh ~/Desktop/tg_$next.desktop
 
-chmod 755  ~/TG_icons/tg_$next.desktop
+#chmod 755  ~/TG_icons/tg_$next.desktop
 echo "start new Telegram"
 /home/user90/src/Telegram/Telegram -many -workdir /home/user90/Telegram_workdir/$next 
 
